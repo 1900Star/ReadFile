@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FileReadDemo</string>
+    <string name="input">写入</string>
+    <string name="read_text">读取</string>
+    <string name="delete">delete</string>
+    <string name="clear">清空</string>
+</resources>
